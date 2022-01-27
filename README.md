@@ -1,2 +1,1 @@
-# space-info
-A website for space information
+A React App for Space Information
